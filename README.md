@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Michael Sheinman 👋
 
+🌱 I'm currently a third year Computer Science student at the University of Toronto. I am currently working as a Teaching Assistant for a Computation Theory course at the University of Toronto! I previously worked at (Korcode)(https://korcode.com/) as a Full Stack Developer. 
+
+I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work.
 <!--
 **MichaelGitHubHype/MichaelGitHubHype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
