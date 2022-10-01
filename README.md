@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael Sheinman 👋
 
-🌱 I'm currently a third year Computer Science student at the University of Toronto. I also work as a Teaching Assistant for a Computation Theory course at the University of Toronto! I previously worked at [Korcode](https://korcode.com/) as a Full Stack Developer. 
+🌱 I'm currently a fourth year Computer Science student at the University of Toronto. I also work as a Teaching Assistant for Operating Systems and Parallel Programming at the University of Toronto! I previously interned at [Citi](https://www.citigroup.com/citi/) as a Software Developer and I worked at [Korcode](https://korcode.com/) as a Full Stack Developer. 
 
 I love exploring new projects, frameworks and languages. Feel free to browse around at my previous work.
 <!--
